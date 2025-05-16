@@ -1,0 +1,7 @@
+cd /path/to/memecoin_bot_repo  # replace with your actual path
+git init
+git remote add origin https://github.com/JerryJoy121/memecoin-bot.git
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
